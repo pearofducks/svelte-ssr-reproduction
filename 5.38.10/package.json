@@ -1,5 +1,5 @@
 {
-  "name": "5.39.0",
+  "name": "5.38.10",
   "type": "module",
   "scripts": {
     "test": "node index.js"
